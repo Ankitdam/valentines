@@ -182,9 +182,9 @@ export default function ValentineProposal() {
                 {/* Footer Message */}
                 {!isAccepted && (
                     <div className="flex items-center gap-2 text-primary/60 font-medium">
-                        <span className="material-symbols-outlined text-xs"></span>
+                        <span className="material-symbols-outlined text-xs">😍</span>
                         <p className="text-[10px] uppercase tracking-widest">Designed with Ankit</p>
-                        <span className="material-symbols-outlined text-xs">colors_spark</span>
+                        <span className="material-symbols-outlined text-xs">😍</span>
                     </div>
                 )}
             </main>
