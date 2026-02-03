@@ -173,7 +173,7 @@ export default function ValentineProposal() {
                                 Yay!!! ❤️
                             </h1>
                             <p className="text-xl text-[#896168]">
-                                I knew you'd say yes🤗! 
+                                I knew you'd say yes🤗! I Love You 😚!
                             </p>
                         </motion.div>
                     )}
