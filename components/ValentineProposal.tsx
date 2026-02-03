@@ -166,7 +166,7 @@ export default function ValentineProposal() {
                                 <div className="absolute inset-0 bg-primary/20 rounded-full blur-2xl animate-pulse"></div>
                                 <div
                                     className="relative w-full h-full bg-center bg-no-repeat bg-contain"
-                                    style={{ backgroundImage: 'url("/assets/")' }}
+                                    style={{ backgroundImage: 'url("/assets/il_1588xN.7637972537_n050.avif")' }}
                                 />
                             </div>
                             <h1 className="text-4xl md:text-5xl font-bold text-primary animate-bounce">
@@ -182,7 +182,7 @@ export default function ValentineProposal() {
                 {/* Footer Message */}
                 {!isAccepted && (
                     <div className="flex items-center gap-2 text-primary/60 font-medium">
-                        <span className="material-symbols-outlined text-xs">colors_spark</span>
+                        <span className="material-symbols-outlined text-xs"></span>
                         <p className="text-[10px] uppercase tracking-widest">Designed with Ankit</p>
                         <span className="material-symbols-outlined text-xs">colors_spark</span>
                     </div>
